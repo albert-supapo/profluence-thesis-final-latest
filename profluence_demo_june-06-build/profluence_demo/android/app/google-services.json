@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191173648949",
+    "project_id": "profluence-social",
+    "storage_bucket": "profluence-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191173648949:android:599954d60237bd66dc477c",
+        "android_client_info": {
+          "package_name": "com.comp19.profluence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT_XBZpaWpEwzYoYbpHH8WA4oglN20jl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
